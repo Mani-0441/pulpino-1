@@ -1,7 +1,7 @@
-adv_dbg_if
-apb
-axi
-riscv
-zero-riscy
-or10n
-fpu
+#adv_dbg_if
+#apb
+#axi
+#riscv
+#zero-riscy
+#or10n
+#fpu
